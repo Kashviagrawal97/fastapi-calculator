@@ -1,7 +1,8 @@
 A simple calculator API built using FastAPI that performs basic operations.
+
 FEATURES:
- Addition, Subtraction, Multiplication, Division,Log,factorial,power
- Interactive API testing with Swagger UI
+ •Addition, Subtraction, Multiplication, Division,Log,factorial,power
+ •Interactive API testing with Swagger UI
 
  RUN LOCALLY:
  pip install -r requirements.txt
